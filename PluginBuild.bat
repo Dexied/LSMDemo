@@ -1,0 +1,1 @@
+B:\UnrealEngine\UE_5.5\Engine\Build\BatchFiles\RunUAT.bat BuildPlugin -Plugin="B:\Projects\LSMDemo\Plugins\LevelStreamingManager\LevelStreamingManager.uplugin" -Package="B:\Projects\LSMDemo\Builds\LevelStreamingManager" -Rocket -2019
